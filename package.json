@@ -1,0 +1,10 @@
+{
+  "name": "approxima",
+  "version": "0.1.0",
+  "description": "A modern XMPP Client",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Maxime Agusti <maxime.agusti@gmail.com>",
+  "license": "MIT"
+}
